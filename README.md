@@ -9,12 +9,9 @@ A modern, responsive web application designed for Visvesvaraya Technological Uni
 
 ---
 
-## 🚀 Badges
+## 🚀 Built With
 
-![GitHub repo size](https://shields.io)
-![GitHub language count](https://shields.io)
-![GitHub top language](https://shields.io)
-![GitHub last commit](https://shields.io)
+![HTML5](https://shields.io)
 
 ---
 
@@ -29,10 +26,9 @@ A modern, responsive web application designed for Visvesvaraya Technological Uni
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![GitHub Pages](https://shields.io)
+* **Frontend:** HTML5, CSS3 (Custom properties & Animations)
+* **Logic:** Vanilla JavaScript
+* **Deployment:** GitHub Pages
 
 ---
 
@@ -59,5 +55,3 @@ cd vtu-sgpa-calculator
 
 # Open index.html in your preferred browser
 ```
-
----
