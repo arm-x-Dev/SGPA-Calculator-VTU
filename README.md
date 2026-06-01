@@ -5,7 +5,7 @@ A state-of-the-art, glassmorphic single-page web application designed for Visves
 ---
 
 ### 🌐 Live Portal
-👉 **[Launch the Live Calculator](https://arm-x-dev.github.io/vtu-sgpa-calculator/)**
+👉 **[Launch the Live Calculator](https://arm-x-dev.github.io/SGPA-Calculator-VTU/)**
 
 ---
 
